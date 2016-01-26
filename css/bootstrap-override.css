@@ -1,0 +1,16 @@
+.lead {font-weight:800}
+
+.jumbotron img {width:100%}
+
+.col-md-3 {background:#eee; padding:25px;}
+
+.row {
+    padding-left: 115px;
+    background: skyblue;
+}
+
+@media (max-width:700px) {
+    .jumbotron img {
+      display:none
+    }
+  }
